@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='lektor-webdav',
-    version='0.1',
+    version='0.1.1',
     author=u'Amin Mesbah',
     author_email='dev@aminmesbah.com',
     license='MIT',
