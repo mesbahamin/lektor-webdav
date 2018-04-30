@@ -12,6 +12,7 @@ setup(
             'webdav = lektor_webdav:WebdavPlugin',
         ]
     },
+    url='https://github.com/mesbahamin/lektor-webdav',
     install_requires=[
         'requests'
     ]
