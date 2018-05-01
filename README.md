@@ -1,5 +1,7 @@
 # Lektor WebDAV Plugin
 
+[![PyPI version shields.io](https://img.shields.io/pypi/v/lektor-webdav.svg)](https://pypi.python.org/pypi/lektor-webdav/)
+
 Get a list of files hosted on a WebDAV server for use in your
 [Lektor](https://www.getlektor.com/) templates.
 

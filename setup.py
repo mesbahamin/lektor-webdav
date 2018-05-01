@@ -9,7 +9,7 @@ with io.open(os.path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name = 'lektor-webdav',
-    version = '0.1.1post1',
+    version = '0.1.1.post3',
 
     author = 'Amin Mesbah',
     author_email = 'dev@aminmesbah.com',
