@@ -9,7 +9,8 @@ with io.open(os.path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name = 'lektor-webdav',
-    version = '0.1.1.post3',
+    version = '0.1.1.post4',
+    url = 'https://github.com/mesbahamin/lektor-webdav',
 
     author = 'Amin Mesbah',
     author_email = 'dev@aminmesbah.com',
