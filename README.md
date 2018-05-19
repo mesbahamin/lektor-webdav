@@ -101,7 +101,7 @@ My `webdav.ini` looks like this:
 ```
 [photography]
 url = https://myfiles.fastmail.com/photography/
-username = amin@aminmesbah.com
+username = me@mydomain.com
 passcmd = pass sync/fastmail_webdav
 ```
 
